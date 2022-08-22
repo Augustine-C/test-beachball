@@ -1,5 +1,5 @@
 {
-  "name": "@codertocat/hello-world-npm",
+  "name": "@augustine-c/hello-world-npm",
   "version": "1.0.2",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Codertocat/hello-world-npm.git"
+    "url": "git+https://github.com/Augustine-C/test-beachball.git"
   },
-  "author": "Codertocat",
+  "author": "Augustine",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Codertocat/hello-world-npm/issues"
-  },
-  "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
+  "homepage": "https://github.com/Augustine-C/test-beachball#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "beachball": "^2.30.1"
   }
 }
