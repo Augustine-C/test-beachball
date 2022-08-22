@@ -1,0 +1,10 @@
+{
+  "type": "patch",
+  "comment": {
+    "title": "",
+    "value": ""
+  },
+  "packageName": "@augustine-c/hello-world-npm",
+  "email": "t-yifancui@microsoft.com",
+  "dependentChangeType": "patch"
+}
