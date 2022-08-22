@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "test beachball alpha",
+  "packageName": "@augustine-c/hello-world-npm",
+  "email": "t-yifancui@microsoft.com",
+  "dependentChangeType": "patch"
+}
