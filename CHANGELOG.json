@@ -2,6 +2,32 @@
   "name": "@augustine-c/hello-world-npm",
   "entries": [
     {
+      "date": "Tue, 23 Aug 2022 06:11:33 GMT",
+      "tag": "@augustine-c/hello-world-npm_v1.0.3-alpha.1",
+      "version": "1.0.3-alpha.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "t-yifancui@microsoft.com",
+            "package": "@augustine-c/hello-world-npm",
+            "commit": "b05cc42fa8bb52337e42721f9b01b36b2629a493",
+            "comment": {
+              "title": "",
+              "value": ""
+            }
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "t-yifancui@microsoft.com",
+            "package": "@augustine-c/hello-world-npm",
+            "commit": "1248165cff401911227aa199ddfd534afb2ad33f",
+            "comment": "update"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 22 Aug 2022 09:29:35 GMT",
       "tag": "@augustine-c/hello-world-npm_v1.0.3-alpha.0",
       "version": "1.0.3-alpha.0",

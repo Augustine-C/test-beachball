@@ -1,7 +1,0 @@
-{
-  "type": "prerelease",
-  "comment": "update",
-  "packageName": "@augustine-c/hello-world-npm",
-  "email": "t-yifancui@microsoft.com",
-  "dependentChangeType": "patch"
-}
